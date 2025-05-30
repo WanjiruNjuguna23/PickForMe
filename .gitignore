@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Node modules (for frontend)
+node_modules/
+
+# Python virtual environment (for backend)
+server/venv/
+
+# Bytecode cache
+__pycache__/
+
+# OS-specific files
+.DS_Store
